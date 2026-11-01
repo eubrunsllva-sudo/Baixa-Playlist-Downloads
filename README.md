@@ -1,47 +1,21 @@
-# Baixa Playlist
+# Baixa Playlist — downloads
 
-Aplicativo para Windows que organiza downloads em lote de áudio de vídeos ou playlists do YouTube e YouTube Music, convertendo o conteúdo para MP3. Use somente conteúdo que você criou ou tem autorização para salvar. O aplicativo não remove DRM nem contorna controles de acesso.
+Aplicativo para Windows x64 que converte em MP3 vídeos e playlists do YouTube e YouTube Music. Use apenas conteúdo que você criou ou tem autorização para salvar.
 
-## Baixar e instalar
+## Instalação
 
-**Requer administrador:** no Windows, clique com o botão direito no instalador e escolha **Executar como administrador**. Sem elevação, o aplicativo não será instalado. Baixe o instalador para Windows x64 na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases). Não é necessário instalar Python, Node.js ou FFmpeg no computador de destino.
+A instalação exige administrador. Clique com o botão direito no instalador e escolha **Executar como administrador**. Baixe a versão **1.0.2** na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
 
-Veja o [Guia de instalação](docs/INSTALACAO.md) e o [Guia de uso](docs/USO.md).
+## Cookies para playlists
 
-## Recursos
+- **Playlist pública:** normalmente escolha **Sem cookies**.
+- **Playlist privada:** escolha **Firefox conectado** e use uma conta do Firefox autorizada a acessar a playlist.
+- A versão 1.0.2 **não oferece suporte a Edge, Chrome ou outros navegadores** para autenticação. No Windows, o aplicativo não conseguiu ler/copiar de forma confiável os bancos de cookies do Edge/Chrome; por isso, esses navegadores não aparecem como opção.
 
-- Baixa uma faixa ou uma playlist completa.
-- Detecta automaticamente se o link aponta para um vídeo ou playlist; também permite escolher o modo manualmente.
-- Converte o áudio para MP3 com opções de 128, 192, 256, 320 kbps ou melhor qualidade disponível.
-- Permite escolher a pasta de destino e acompanha as mensagens e o progresso.
-- Pode usar cookies de uma sessão local do Firefox quando o usuário está autorizado a acessar o conteúdo.
-- Inclui yt-dlp, Deno e FFmpeg no instalador.
+## Guias
 
-A qualidade selecionada não pode superar a qualidade da fonte original. A disponibilidade depende do conteúdo, da rede e das regras de acesso do YouTube.
+- [Guia de instalação](docs/INSTALACAO.md)
+- [Guia de uso](docs/USO.md)
+- [Componentes e licenças](docs/COMPONENTES.md)
 
-## Requisitos
-
-Para instalar: Windows 10 ou 11 de 64 bits e conexão com a internet para baixar conteúdo. Para desenvolver ou gerar o instalador: Windows x64, Node.js LTS, npm e conexão com a internet.
-
-## Desenvolvimento
-
-```powershell
-npm install
-npm run dev
-```
-
-Para gerar o instalador no Windows x64:
-
-```powershell
-npm run dist:win
-```
-
-Esse comando baixa as ferramentas necessárias para `tools/`, compila o aplicativo e cria o instalador em `release/`. Consulte [Desenvolvimento e compilação](docs/DESENVOLVIMENTO.md).
-
-## Componentes de terceiros
-
-O aplicativo usa Electron, React, Vite, yt-dlp, Deno e FFmpeg. Consulte [Fontes e licenças](docs/COMPONENTES.md) e os termos dos respectivos projetos antes de redistribuir versões modificadas.
-
-## Ajuda
-
-Se um download falhar, expanda **Atividade** no aplicativo e inclua as mensagens exibidas ao relatar o problema. Não compartilhe cookies, senhas nem arquivos de perfil do navegador.
+Este repositório público contém o instalador e a documentação, sem o código-fonte do aplicativo.
