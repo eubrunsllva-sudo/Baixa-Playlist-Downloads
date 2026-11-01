@@ -10,7 +10,7 @@
    - Para uma playlist pública, normalmente escolha **Sem cookies**.
    - Para uma playlist privada, escolha **Firefox conectado** e use uma conta autorizada a acessá-la. Feche o Firefox antes de iniciar.
    - Alguns conteúdos públicos também podem exigir login; nesse caso, escolha Firefox conectado à conta autorizada.
-   - A versão 1.0.2 não oferece sessões do Edge, Chrome ou outros navegadores. No Windows, a leitura/cópia dos bancos de cookies Chromium não funcionou de forma confiável.
+   - A versão 1.0.3 não oferece sessões do Edge, Chrome ou outros navegadores. No Windows, a leitura/cópia dos bancos de cookies Chromium não funcionou de forma confiável.
 6. Confira a pasta de destino ou use **Escolher** para selecionar outra.
 7. Clique em **Baixar playlist** e acompanhe o progresso na seção **Atividade**.
 
