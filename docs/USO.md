@@ -8,9 +8,8 @@
 4. Escolha a qualidade MP3. A conversão não melhora a qualidade da fonte original.
 5. Em **Sessão do YouTube**:
    - Para uma playlist pública, normalmente escolha **Sem cookies**.
-   - Para uma playlist privada, escolha Firefox, Chrome ou Edge — o navegador em que está conectada uma conta autorizada a acessar essa playlist. Feche o navegador escolhido antes de iniciar.
-   - Se o YouTube exigir login por outro motivo, selecione também o navegador conectado à conta autorizada. Playlists públicas podem ter restrições que ainda exigem autenticação.
-   - Ao usar Edge ou Chrome, o app avisará antes de começar. Se o banco de cookies estiver bloqueado, ele poderá encerrar o navegador selecionado para liberar o arquivo. Salve seu trabalho antes de confirmar; abas abertas podem ser fechadas.
+   - Para uma playlist privada, escolha **Firefox conectado** e use uma conta autorizada a acessá-la. Feche o Firefox antes de iniciar.
+   - Alguns conteúdos públicos também podem exigir login; nesse caso, escolha Firefox conectado à conta autorizada.
 6. Confira a pasta de destino ou use **Escolher** para selecionar outra.
 7. Clique em **Baixar playlist** e acompanhe o progresso na seção **Atividade**.
 
@@ -22,7 +21,7 @@ Clique em **Cancelar** durante o download. A faixa que estava sendo baixada pode
 
 ## Privacidade e autorização
 
-Links e cookies são processados localmente pelo aplicativo e pelo yt-dlp. A opção de sessão lê cookies do perfil local do Firefox, Chrome ou Edge escolhido. Não use nem compartilhe cookies de outras pessoas. Baixe apenas conteúdo que você criou ou tem autorização para salvar, respeitando os termos do serviço e direitos autorais aplicáveis.
+Links e cookies são processados localmente pelo aplicativo e pelo yt-dlp. A opção Firefox lê cookies do perfil local do navegador. Não use nem compartilhe cookies de outras pessoas. Baixe apenas conteúdo que você criou ou tem autorização para salvar, respeitando os termos do serviço e direitos autorais aplicáveis.
 
 ## Se houver falha
 
