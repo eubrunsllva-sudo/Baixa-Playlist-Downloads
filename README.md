@@ -1,15 +1,17 @@
 # Baixa Playlist — downloads
 
-Aplicativo para Windows que baixa áudio em MP3 de vídeos ou playlists do YouTube e YouTube Music quando você tem autorização para salvar o conteúdo.
+Aplicativo Windows x64 para converter para MP3 áudio de vídeos ou playlists do YouTube e YouTube Music quando você tem autorização para salvar o conteúdo.
 
-## Baixar
+## Instalação — requer administrador
 
-Baixe o instalador Windows x64 na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases). A versão 1.0.1 inclui o aplicativo e as ferramentas necessárias; Python, Node.js e FFmpeg não precisam ser instalados separadamente.
+**Este aplicativo só instala se o instalador for executado como administrador.** Clique com o botão direito no instalador e selecione **Executar como administrador**. Confirme o aviso do Windows. Sem essa permissão, a instalação não prossegue.
+
+Baixe o instalador na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases). Não é necessário instalar Python, Node.js ou FFmpeg separadamente.
 
 ## Guias
 
-- [Instalação](docs/INSTALACAO.md)
-- [Como usar](docs/USO.md)
+- [Guia de instalação](docs/INSTALACAO.md)
+- [Guia de uso](docs/USO.md)
 - [Componentes e licenças](docs/COMPONENTES.md)
 
-Este repositório contém somente o instalador e a documentação pública. O código-fonte é mantido separadamente.
+Este repositório público contém o instalador e a documentação de distribuição, não o código-fonte do aplicativo.
