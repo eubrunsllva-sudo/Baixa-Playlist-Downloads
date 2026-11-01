@@ -6,7 +6,7 @@
 2. Cole um link HTTPS de vídeo ou playlist do YouTube/YouTube Music.
 3. Em **O que baixar**, mantenha **Detectar automaticamente** ou escolha uma faixa ou playlist completa.
 4. Escolha a qualidade MP3. A conversão não melhora a qualidade da fonte original.
-5. Em **Sessão do YouTube**, escolha **Sem cookies** para conteúdo acessível sem conta. Escolha **Firefox conectado** somente quando necessário para acessar conteúdo permitido pela sua conta; feche o Firefox antes de iniciar.
+5. Em **Sessão do YouTube**, escolha **Sem cookies** para conteúdo acessível sem conta. Quando necessário, escolha Firefox, Chrome ou Edge, conforme a sessão autorizada; feche o navegador escolhido antes de iniciar.
 6. Confira a pasta de destino ou use **Escolher** para selecionar outra.
 7. Clique em **Baixar playlist** e acompanhe o progresso na seção **Atividade**.
 
@@ -18,7 +18,7 @@ Clique em **Cancelar** durante o download. A faixa que estava sendo baixada pode
 
 ## Privacidade e autorização
 
-Links e cookies são processados localmente pelo aplicativo e pelo yt-dlp. A opção Firefox lê cookies do perfil local do navegador. Não use nem compartilhe cookies de outras pessoas. Baixe apenas conteúdo que você criou ou tem autorização para salvar, respeitando os termos do serviço e direitos autorais aplicáveis.
+Links e cookies são processados localmente pelo aplicativo e pelo yt-dlp. A opção de sessão lê cookies do perfil local do Firefox, Chrome ou Edge escolhido. Não use nem compartilhe cookies de outras pessoas. Baixe apenas conteúdo que você criou ou tem autorização para salvar, respeitando os termos do serviço e direitos autorais aplicáveis.
 
 ## Se houver falha
 
