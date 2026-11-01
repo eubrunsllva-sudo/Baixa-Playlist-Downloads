@@ -18,7 +18,9 @@ O programa cria a pasta de destino se ela ainda não existir. Títulos podem ser
 
 ## Cancelar
 
-Clique em **Cancelar** durante o download. A faixa que estava sendo baixada pode ficar incompleta; verifique a pasta antes de tentar novamente.
+Clique em **Cancelar** durante o download. O botão principal muda para **Retomar download**. Clique nele para continuar com o mesmo link, opções e pasta: faixas já concluídas serão ignoradas e arquivos parciais continuarão quando possível. Se preferir começar outro trabalho, clique em **Novo download**.
+
+O estado de retomada do botão fica disponível enquanto o aplicativo permanecer aberto. Mesmo se você fechar o aplicativo, uma nova tentativa com o mesmo link, qualidade, modo e pasta usa o histórico local para pular faixas concluídas.
 
 ## Privacidade e autorização
 
