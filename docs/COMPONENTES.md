@@ -10,3 +10,5 @@ O Baixa Playlist integra os projetos abaixo. Consulte as páginas oficiais para 
 - [React](https://github.com/facebook/react) e [Vite](https://github.com/vitejs/vite) — interface e compilação.
 
 O script `npm run prepare:tools` consulta os releases oficiais e baixa os artefatos atuais para Windows x64. Assim, uma compilação futura pode incluir versões diferentes das usadas para gerar o instalador publicado. Para builds reproduzíveis, fixe versões e valide hashes, avisos de copyright e obrigações de redistribuição.
+
+O pacote também inclui o plugin [yt-dlp-ChromeCookieUnlock](https://github.com/seproDev/yt-dlp-ChromeCookieUnlock), sob licença MIT, para lidar com bancos de cookies Chromium bloqueados no Windows. Ao usar Chrome ou Edge, o aplicativo pede confirmação antes de uma tentativa que pode fechar o navegador para liberar o arquivo.
