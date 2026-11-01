@@ -4,11 +4,11 @@ Aplicativo Windows x64 para converter para MP3 áudio de vídeos ou playlists do
 
 ## Instalação — requer administrador
 
-**Execute o instalador como administrador.** Clique com o botão direito no arquivo e selecione **Executar como administrador**; sem essa permissão, a instalação não prossegue.
+Execute o instalador como administrador. Baixe a versão atual na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
 
-Baixe a versão mais recente na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases). Não é necessário instalar Python, Node.js ou FFmpeg separadamente.
+## Cookies e playlists
 
-O aplicativo pode usar cookies de uma sessão autorizada do **Firefox, Chrome ou Edge**, selecionada no próprio aplicativo.
+Para playlists públicas, normalmente escolha **Sem cookies**. Para playlists privadas, selecione Firefox, Chrome ou Edge conectado a uma conta autorizada a acessá-las. Alguns conteúdos públicos também podem exigir login.
 
 ## Guias
 
@@ -16,4 +16,4 @@ O aplicativo pode usar cookies de uma sessão autorizada do **Firefox, Chrome ou
 - [Uso](docs/USO.md)
 - [Componentes e licenças](docs/COMPONENTES.md)
 
-Este repositório público contém o instalador e os guias, sem o código-fonte do aplicativo.
+Este repositório público contém o instalador e documentação, sem o código-fonte do aplicativo.
