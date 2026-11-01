@@ -4,6 +4,8 @@ Aplicativo Windows x64 para converter para MP3 vídeos e playlists do YouTube/Yo
 
 ## Instalação
 
+Versão atual: **1.0.3**.
+
 Requer administrador: botão direito no instalador e **Executar como administrador**. Baixe a versão atual na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
 
 ## Sessão e retomada
