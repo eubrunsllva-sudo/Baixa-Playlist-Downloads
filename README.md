@@ -1,21 +1,20 @@
 # Baixa Playlist — downloads
 
-Aplicativo para Windows x64 que converte em MP3 vídeos e playlists do YouTube e YouTube Music. Use apenas conteúdo que você criou ou tem autorização para salvar.
+Aplicativo Windows x64 para converter para MP3 vídeos e playlists do YouTube/YouTube Music, com autorização para salvar o conteúdo.
 
 ## Instalação
 
-A instalação exige administrador. Clique com o botão direito no instalador e escolha **Executar como administrador**. Baixe a versão **1.0.2** na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
+Requer administrador: botão direito no instalador e **Executar como administrador**. Baixe a versão atual na página [Releases](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
 
-## Cookies para playlists
+## Sessão e retomada
 
-- **Playlist pública:** normalmente escolha **Sem cookies**.
-- **Playlist privada:** escolha **Firefox conectado** e use uma conta do Firefox autorizada a acessar a playlist.
-- A versão 1.0.2 **não oferece suporte a Edge, Chrome ou outros navegadores** para autenticação. No Windows, o aplicativo não conseguiu ler/copiar de forma confiável os bancos de cookies do Edge/Chrome; por isso, esses navegadores não aparecem como opção.
+- Playlist pública: normalmente **Sem cookies**.
+- Playlist privada: **Firefox conectado** a uma conta autorizada. Esta versão não oferece sessões de Edge, Chrome ou outros navegadores.
+- Se cancelar um download, clique em **Retomar download**. Faixas concluídas são ignoradas e arquivos parciais continuam quando possível. Use **Novo download** para descartar a retomada e editar os campos.
 
 ## Guias
-
-- [Guia de instalação](docs/INSTALACAO.md)
-- [Guia de uso](docs/USO.md)
+- [Instalação](docs/INSTALACAO.md)
+- [Uso](docs/USO.md)
 - [Componentes e licenças](docs/COMPONENTES.md)
 
-Este repositório público contém o instalador e a documentação, sem o código-fonte do aplicativo.
+Este repositório público contém instalador e documentação, sem o código-fonte do aplicativo.
