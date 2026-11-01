@@ -10,6 +10,7 @@
    - Para uma playlist pública, normalmente escolha **Sem cookies**.
    - Para uma playlist privada, escolha Firefox, Chrome ou Edge — o navegador em que está conectada uma conta autorizada a acessar essa playlist. Feche o navegador escolhido antes de iniciar.
    - Se o YouTube exigir login por outro motivo, selecione também o navegador conectado à conta autorizada. Playlists públicas podem ter restrições que ainda exigem autenticação.
+   - Ao usar Edge ou Chrome, o app avisará antes de começar. Se o banco de cookies estiver bloqueado, ele poderá encerrar o navegador selecionado para liberar o arquivo. Salve seu trabalho antes de confirmar; abas abertas podem ser fechadas.
 6. Confira a pasta de destino ou use **Escolher** para selecionar outra.
 7. Clique em **Baixar playlist** e acompanhe o progresso na seção **Atividade**.
 
