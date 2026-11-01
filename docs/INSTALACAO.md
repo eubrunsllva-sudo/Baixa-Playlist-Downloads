@@ -4,17 +4,19 @@
 
 - Windows 10 ou Windows 11 de 64 bits.
 - Acesso à internet para baixar conteúdo.
+- Permissão de administrador no Windows para instalar o aplicativo.
 
 Python, Node.js e FFmpeg não precisam ser instalados separadamente no computador que vai usar o aplicativo.
 
 ## Instalar
 
-1. Acesse a página [Releases do Baixa Playlist](https://github.com/eubrunsllva-sudo/Baixa-Playlist/releases).
-2. Abra a versão mais recente e baixe `Baixa-Playlist-Instalador-1.0.1.exe` (ou o instalador da versão mais recente).
-3. Abra o arquivo baixado e siga as instruções do Windows.
-4. Inicie **Baixa Playlist** pelo atalho da Área de Trabalho ou pelo Menu Iniciar.
+1. Acesse a página [Releases do Baixa Playlist](https://github.com/eubrunsllva-sudo/Baixa-Playlist-Downloads/releases).
+2. Abra a versão mais recente e baixe o instalador Windows x64.
+3. Clique com o botão direito no arquivo e escolha **Executar como administrador**.
+4. Confirme o aviso de Controle de Conta de Usuário do Windows. Sem essa autorização, a instalação não prossegue.
+5. Inicie **Baixa Playlist** pelo atalho da Área de Trabalho ou pelo Menu Iniciar.
 
-A instalação é feita somente para a conta atual do Windows. Não é necessário copiar a pasta `release` nem outros arquivos do projeto.
+O instalador é configurado para instalação por máquina e exige administrador. Não é necessário copiar a pasta `release` nem outros arquivos do projeto.
 
 ## Aviso do Windows
 
@@ -22,7 +24,7 @@ Como o instalador não tem assinatura digital, o Windows pode exibir um aviso de
 
 ## Atualizar
 
-Baixe e execute o instalador da versão mais recente. Se o instalador avisar que o aplicativo está aberto, feche o Baixa Playlist e escolha **Repetir**.
+Baixe e execute como administrador o instalador da versão mais recente. Se o instalador avisar que o aplicativo está aberto, feche o Baixa Playlist e escolha **Repetir**.
 
 ## Solução de problemas
 
